@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: medium;
+    color: #f8f2f2;
+    background-color: rgb(1, 10, 7);
+    display: grid;
+    text-align: center;
+    padding-top: 200px;
+}
