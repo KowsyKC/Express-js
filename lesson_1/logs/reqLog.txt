@@ -54,3 +54,16 @@
 22022024	16:57:06 	 98229d9d-1037-4ac1-bfea-4ac195a272a5 	 GET	 undefined	 /subdir/css/style.css
 22022024	16:58:25 	 7ec503e9-8e9e-43af-8aed-88e8b60733ea 	 GET	 undefined	 /subdir/lo
 22022024	16:58:25 	 3b875d2a-f302-4390-a213-3b23d5d0a473 	 GET	 undefined	 /subdir/css/style.css
+22022024	20:31:34 	 885f7afa-c857-4ec6-baba-1819a838a9cd 	 GET	 undefined	 /
+22022024	20:31:35 	 7583e0d9-680a-4bf9-92dd-a56cd92f83a2 	 GET	 undefined	 /css/style.css
+22022024	20:31:35 	 7e20d0f7-ab1a-4930-978d-4d6976803e51 	 GET	 undefined	 /favicon.ico
+22022024	20:32:13 	 f4d91ffa-3c54-4660-b955-35342aa7bc9e 	 GET	 undefined	 /employees
+22022024	20:36:14 	 66e534ff-e205-4148-acf8-a00318022e89 	 GET	 undefined	 /employees
+22022024	20:40:20 	 66d490ae-e1e5-4a6d-8d41-2a0440b84f0a 	 POST	 undefined	 /employees
+23022024	13:54:39 	 588a020e-d1fd-4dfa-b530-dda150e91ea4 	 GET	 undefined	 /
+23022024	13:54:39 	 2d84f0bf-bbf7-4c52-812f-dce5bb6e83ce 	 GET	 undefined	 /css/style.css
+23022024	13:54:39 	 f90736f6-8924-4aca-9106-bd77c39378ba 	 GET	 undefined	 /favicon.ico
+23022024	13:54:49 	 1e56483a-2161-4669-bc91-ff7811b9a08a 	 GET	 undefined	 /employees
+23022024	13:54:49 	 8fabb7c5-d5d1-4e65-b5db-457819ece1dc 	 GET	 undefined	 /favicon.ico
+23022024	13:58:25 	 d591ff89-774f-4920-aeca-b665f6c90817 	 GET	 undefined	 /employees/post
+23022024	13:58:25 	 005e8c6e-3957-457d-96af-d50ec7ce5538 	 GET	 undefined	 /favicon.ico

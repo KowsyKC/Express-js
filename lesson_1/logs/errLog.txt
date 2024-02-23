@@ -3,3 +3,6 @@
 22022024	15:45:14 	 af2fb34a-70ad-4e9f-a54d-bc01c0cbcd25 	 Error: not allowed by cors
 22022024	15:45:24 	 84879aae-4fe5-4617-90cb-a8d2e801199d 	 Error: not allowed by cors
 22022024	16:46:07 	 1de7d7fb-3646-4a72-8928-3e10ea014854 	 Error: ENOENT: no such file or directory, stat 'C:\Users\Dell\Desktop\beginnerTutorial\webServer\index.html'
+23022024	13:54:39 	 b8d276bf-db84-4978-bbc6-25c190b4bdd0 	 Error: ENOENT: no such file or directory, stat 'C:\Users\Dell\Desktop\beginnerTutorial\webServer\404.html'
+23022024	13:54:49 	 3e1891e1-daf9-4895-b80c-67d652597fd7 	 Error: ENOENT: no such file or directory, stat 'C:\Users\Dell\Desktop\beginnerTutorial\webServer\404.html'
+23022024	13:58:25 	 ee7803b9-3f44-43dc-8512-619a07377f4d 	 Error: ENOENT: no such file or directory, stat 'C:\Users\Dell\Desktop\beginnerTutorial\webServer\404.html'
